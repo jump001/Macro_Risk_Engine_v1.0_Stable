@@ -1,15 +1,76 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+การเปลี่ยนแปลงทั้งหมดของโปรเจกต์ Macro Risk Engine จะถูกบันทึกไว้ในไฟล์นี้
 
-## [Unreleased]
+รูปแบบอ้างอิงแนวคิดจาก Keep a Changelog
 
-### Added
-- Initial project structure
-- Documentation framework (docs/)
-- Business documentation (business/)
-- Technical documentation (technical/)
-- ADR (Architecture Decision Records)
-- AI/Copilot guide
-- Development roadmap
-- Project scaffolding (apps/, packages/, config/, docker/, scripts/, tests/, tools/)
+---
+
+# [Unreleased]
+
+## Added
+
+* *
+
+## Changed
+
+* *
+
+## Fixed
+
+* *
+
+---
+
+# [1.0.0] - 2026-06-26
+
+## Added
+
+### Project Initialization
+
+* สร้างโครงสร้าง Monorepo
+* สร้างโฟลเดอร์ `apps/`
+* สร้างโฟลเดอร์ `packages/`
+* สร้างโฟลเดอร์ `config/`
+* สร้างโฟลเดอร์ `docker/`
+* สร้างโฟลเดอร์ `tests/`
+* สร้างโฟลเดอร์ `tools/`
+
+### Documentation
+
+* สร้าง `docs/00-skills.md`
+* สร้าง `docs/business/`
+* สร้าง `docs/technical/`
+* สร้าง `docs/roadmap/`
+* สร้าง `docs/ai/`
+* สร้าง `docs/adr/`
+
+### Configuration
+
+* สร้าง `.editorconfig`
+* สร้าง `.env.example`
+* สร้าง `docker-compose.yml`
+* สร้าง `package.json`
+* สร้าง `tsconfig.base.json`
+
+### Process
+
+* กำหนด Documentation First Development
+* กำหนด Documentation Review Workflow
+* สร้าง `STATUS.md`
+
+---
+
+# Version Policy
+
+Major
+
+* เปลี่ยน Architecture
+
+Minor
+
+* เพิ่ม Feature
+
+Patch
+
+* Bug Fix
