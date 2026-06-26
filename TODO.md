@@ -1,19 +1,9 @@
 # TODO
 
-## Sprint 1
+# Sprint 2
 
-- [ ] Finish Project Charter
-- [ ] Review Project Charter
-- [ ] Approve Project Charter
+## Goal
 
-## Sprint 2
-
-- [ ] Macro Framework
-- [ ] Layer Diagram
-- [ ] Review
-
-## Sprint 3
-
-- [ ] Risk Engine
-- [ ] Pseudocode
-- [ ] State Machine
+- [ ] Create Macro Framework
+- [ ] Review Macro Framework
+- [ ] Approve Macro Framework

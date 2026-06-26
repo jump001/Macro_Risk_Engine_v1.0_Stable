@@ -74,3 +74,13 @@ Minor
 Patch
 
 * Bug Fix
+
+## [1.0.1] - 2026-06-26
+
+### Added
+
+- Business Project Charter
+
+### Approved
+
+- Business Project Charter (v1.0)
